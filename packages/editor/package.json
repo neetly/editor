@@ -18,6 +18,12 @@
     "clean": "buncho library clean",
     "prepack": "run clean && run build && cp ../../LICENSE ."
   },
+  "dependencies": {
+    "prosemirror-model": "^1.18.3",
+    "prosemirror-state": "^1.4.2",
+    "prosemirror-transform": "^1.7.0",
+    "prosemirror-view": "^1.29.1"
+  },
   "peerDependencies": {
     "react": "*",
     "react-dom": "*"
