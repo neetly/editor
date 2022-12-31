@@ -11,6 +11,7 @@
   },
   "license": "MIT",
   "scripts": {
+    "start": "yarn workspace @neetly/editor start",
     "build": "yarn workspaces foreach --topological-dev run build",
     "clean": "yarn workspaces foreach --topological-dev run clean",
     "lint": "eslint --max-warnings 0 . && prettier --check .",

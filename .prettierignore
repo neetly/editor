@@ -8,4 +8,5 @@
 
 **/*.tsbuildinfo
 /packages/*/lib/
+/packages/*/storybook-static/
 /packages/*/LICENSE
