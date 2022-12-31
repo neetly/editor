@@ -1,0 +1,25 @@
+{
+  "name": "@neetly/editor",
+  "version": "0.0.0",
+  "homepage": "https://github.com/neetly/editor",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:neetly/editor.git",
+    "directory": "packages/editor"
+  },
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "files": [
+    "./lib"
+  ],
+  "scripts": {
+    "build": "buncho library build",
+    "clean": "buncho library clean",
+    "prepack": "run clean && run build && cp ../../LICENSE ."
+  },
+  "devDependencies": {
+    "@neetly/tsconfig": "^0.2.0",
+    "buncho": "^6.0.4",
+    "typescript": "^4.9.4"
+  }
+}

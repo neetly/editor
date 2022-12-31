@@ -1,0 +1,29 @@
+{
+  "name": "@neetly/editor-repo",
+  "private": true,
+  "workspaces": [
+    "./packages/*"
+  ],
+  "homepage": "https://github.com/neetly/editor",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:neetly/editor.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspaces foreach --topological-dev run build",
+    "clean": "yarn workspaces foreach --topological-dev run clean",
+    "lint": "eslint --max-warnings 0 . && prettier --check .",
+    "lint:fix": "eslint --max-warnings 0 --fix . && prettier --write .",
+    "publish": "yarn workspaces foreach --no-private npm publish --tolerate-republish"
+  },
+  "devDependencies": {
+    "@neetly/eslint-config": "^0.4.0",
+    "@neetly/tsconfig": "^0.2.0",
+    "@prettier/plugin-xml": "^2.2.0",
+    "eslint": "^8.31.0",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  },
+  "packageManager": "yarn@4.0.0-rc.34"
+}
