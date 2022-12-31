@@ -1977,8 +1977,15 @@ __metadata:
     storybook: "npm:7.0.0-beta.17"
     typescript: "npm:^4.9.4"
   peerDependencies:
+    "@types/react": "*"
+    "@types/react-dom": "*"
     react: "*"
     react-dom: "*"
+  peerDependenciesMeta:
+    "@types/react":
+      optional: true
+    "@types/react-dom":
+      optional: true
   languageName: unknown
   linkType: soft
 
