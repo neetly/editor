@@ -1968,7 +1968,7 @@ __metadata:
     "@types/react": "npm:^18.0.26"
     "@types/react-dom": "npm:^18.0.10"
     buncho: "npm:^6.0.4"
-    prosemirror-model: "npm:^1.18.3"
+    prosemirror-model: "npm:^1.19.0"
     prosemirror-state: "npm:^1.4.2"
     prosemirror-transform: "npm:^1.7.0"
     prosemirror-view: "npm:^1.29.2"
@@ -10533,12 +10533,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prosemirror-model@npm:^1.0.0, prosemirror-model@npm:^1.16.0, prosemirror-model@npm:^1.18.3":
-  version: 1.18.3
-  resolution: "prosemirror-model@npm:1.18.3"
+"prosemirror-model@npm:^1.0.0, prosemirror-model@npm:^1.16.0, prosemirror-model@npm:^1.19.0":
+  version: 1.19.0
+  resolution: "prosemirror-model@npm:1.19.0"
   dependencies:
     orderedmap: "npm:^2.0.0"
-  checksum: 81c8d2262b7f508a17300dc52f13fad9cfa025dd2ba70e6ccff630ae187ce7c69590be3089587d7af2b66db88c64bcccb794f21d3cb5e435c1ffd39d7546040a
+  checksum: aabd6163ec8371fcc1019a6863a2dc8cad4788b987163e3a8c26491d6f5e18e89c75f41ab59841f5b99c9d7c9c6b84f27c9bfae07542254f37bc1f83b682cc4b
   languageName: node
   linkType: hard
 
