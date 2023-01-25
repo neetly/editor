@@ -69,7 +69,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.10, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.12, @babel/core@npm:^7.20.2, @babel/core@npm:^7.20.5, @babel/core@npm:^7.7.5":
+"@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.10, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.12, @babel/core@npm:^7.20.2, @babel/core@npm:^7.7.5":
   version: 7.20.12
   resolution: "@babel/core@npm:7.20.12"
   dependencies:
@@ -1480,47 +1480,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@buncho/storybook-preset@npm:^6.0.4":
-  version: 6.0.4
-  resolution: "@buncho/storybook-preset@npm:6.0.4"
+"@buncho/storybook-preset@npm:^6.0.5":
+  version: 6.0.5
+  resolution: "@buncho/storybook-preset@npm:6.0.5"
   dependencies:
-    "@buncho/webpack-config": "npm:6.0.4"
+    "@buncho/webpack-config": "npm:6.0.5"
     webpack: "npm:^5.75.0"
     webpack-merge: "npm:^5.8.0"
   peerDependencies:
-    buncho: 6.0.4
-  checksum: 806d1215cad4120e4e00e616c09e88023e94a5751c9db241a0fa153034460fdaa43d88c0079f5f5cea04763b4f4d198949021c52e63ac7c030787c92774a89e4
-  languageName: node
-  linkType: hard
-
-"@buncho/webpack-config@npm:6.0.4":
-  version: 6.0.4
-  resolution: "@buncho/webpack-config@npm:6.0.4"
-  dependencies:
-    "@babel/core": "npm:^7.20.5"
-    "@neetly/babel-preset": "npm:^0.2.2"
-    "@pmmmwh/react-refresh-webpack-plugin": "npm:^0.5.10"
-    "@types/mime-types": "npm:^2.1.1"
-    autoprefixer: "npm:^10.4.13"
-    babel-loader: "npm:^9.1.0"
-    css-loader: "npm:^6.7.2"
-    css-minimizer-webpack-plugin: "npm:^4.2.2"
-    mime-types: "npm:^2.1.35"
-    mini-css-extract-plugin: "npm:^2.7.2"
-    postcss: "npm:^8.4.19"
-    postcss-loader: "npm:^7.0.2"
-    project-references-webpack-plugin: "npm:^0.1.4"
-    react-refresh: "npm:^0.14.0"
-    resolve-url-loader: "npm:^5.0.0"
-    sass: "npm:^1.56.1"
-    sass-loader: "npm:^13.2.0"
-  peerDependencies:
-    webpack: "*"
-    webpack-dev-server: "*"
-  peerDependenciesMeta:
-    webpack-dev-server:
-      optional: true
-  checksum: 0a21032d0107a9e61ce4a1e0a43f17f3ba1c76b9c26eef32bb91bbd22880163c07e96501c0fa44e45c632d12456b3e926a7acb34a288e28b15b1951d740d2b72
+    buncho: 6.0.5
+  checksum: ec0d9a210b2fcde052cad7947c8a08d57c2d8eeb77cb3beba7eac6a48a225858a0cbdb346a9721c15ce46946a6096f75d6b499665eb5263284c4289ea9587714
   languageName: node
   linkType: hard
 
@@ -1991,7 +1960,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@neetly/editor@workspace:packages/editor"
   dependencies:
-    "@buncho/storybook-preset": "npm:^6.0.4"
+    "@buncho/storybook-preset": "npm:^6.0.5"
     "@neetly/tsconfig": "npm:^0.2.0"
     "@storybook/addon-essentials": "npm:7.0.0-beta.33"
     "@storybook/react": "npm:7.0.0-beta.33"
@@ -4446,7 +4415,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-loader@npm:^9.0.0, babel-loader@npm:^9.1.0, babel-loader@npm:^9.1.2":
+"babel-loader@npm:^9.0.0, babel-loader@npm:^9.1.2":
   version: 9.1.2
   resolution: "babel-loader@npm:9.1.2"
   dependencies:
@@ -5429,7 +5398,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-loader@npm:^6.7.1, css-loader@npm:^6.7.2, css-loader@npm:^6.7.3":
+"css-loader@npm:^6.7.1, css-loader@npm:^6.7.3":
   version: 6.7.3
   resolution: "css-loader@npm:6.7.3"
   dependencies:
@@ -11350,7 +11319,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.56.1, sass@npm:^1.57.1":
+"sass@npm:^1.57.1":
   version: 1.57.1
   resolution: "sass@npm:1.57.1"
   dependencies:
