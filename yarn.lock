@@ -1978,7 +1978,7 @@ __metadata:
     prosemirror-model: "npm:^1.19.0"
     prosemirror-state: "npm:^1.4.2"
     prosemirror-transform: "npm:^1.7.1"
-    prosemirror-view: "npm:^1.30.0"
+    prosemirror-view: "npm:^1.30.1"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
     storybook: "npm:7.0.0-beta.43"
@@ -10053,14 +10053,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prosemirror-view@npm:^1.27.0, prosemirror-view@npm:^1.30.0":
-  version: 1.30.0
-  resolution: "prosemirror-view@npm:1.30.0"
+"prosemirror-view@npm:^1.27.0, prosemirror-view@npm:^1.30.1":
+  version: 1.30.1
+  resolution: "prosemirror-view@npm:1.30.1"
   dependencies:
     prosemirror-model: "npm:^1.16.0"
     prosemirror-state: "npm:^1.0.0"
     prosemirror-transform: "npm:^1.1.0"
-  checksum: 650b2e67fcccd68ae9e4662c7bb383691ad80d215732b4445ea462633ba273011651a93416d4ffd14fb160bb33b6541877fbb60e90d122f88b94730e3f7ed2a2
+  checksum: 44d6281fd85d7779342c8a5be1dda5559b0d40217172a276a80a0fc4823878a3abf35e863334758618451529ab3ef0cdc9de821ef470dbec19ed423d3b373787
   languageName: node
   linkType: hard
 
