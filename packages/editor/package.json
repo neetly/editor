@@ -39,7 +39,7 @@
     }
   },
   "devDependencies": {
-    "@buncho/storybook-preset": "^6.0.5",
+    "@buncho/storybook-preset": "^6.1.0",
     "@neetly/tsconfig": "^0.3.0",
     "@storybook/addon-essentials": "^7.0.0",
     "@storybook/react": "^7.0.0",
