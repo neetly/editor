@@ -46,7 +46,7 @@
     "@storybook/react-webpack5": "^7.0.0",
     "@types/react": "^18.0.31",
     "@types/react-dom": "^18.0.11",
-    "buncho": "^6.0.5",
+    "buncho": "^6.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.0.0",
