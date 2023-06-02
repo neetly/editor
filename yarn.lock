@@ -2024,7 +2024,7 @@ __metadata:
     buncho: "npm:^6.1.0"
     prosemirror-model: "npm:^1.19.2"
     prosemirror-state: "npm:^1.4.3"
-    prosemirror-transform: "npm:^1.7.2"
+    prosemirror-transform: "npm:^1.7.3"
     prosemirror-view: "npm:^1.31.3"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
@@ -10470,12 +10470,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prosemirror-transform@npm:^1.0.0, prosemirror-transform@npm:^1.1.0, prosemirror-transform@npm:^1.7.2":
-  version: 1.7.2
-  resolution: "prosemirror-transform@npm:1.7.2"
+"prosemirror-transform@npm:^1.0.0, prosemirror-transform@npm:^1.1.0, prosemirror-transform@npm:^1.7.3":
+  version: 1.7.3
+  resolution: "prosemirror-transform@npm:1.7.3"
   dependencies:
     prosemirror-model: "npm:^1.0.0"
-  checksum: 776149f666e9a187120499ea543b4e8500d9840aabf27197b501fbcbd62617afd152fde9e504af5ade3df28a048ae2254dd22f0413c1e5b10dbcdff084b31e5e
+  checksum: 712020e4dcfb7c486b61b32380cf188f8d7590c3c8b636fb95de004d1f232c748e8da8c69ec5f0ce13073b9a7283bd6532d08996b54fe73e096e4f364be2afcc
   languageName: node
   linkType: hard
 
