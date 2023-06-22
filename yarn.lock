@@ -2019,7 +2019,7 @@ __metadata:
     "@storybook/addon-essentials": "npm:^7.0.20"
     "@storybook/react": "npm:^7.0.20"
     "@storybook/react-webpack5": "npm:^7.0.20"
-    "@types/react": "npm:^18.2.11"
+    "@types/react": "npm:^18.2.13"
     "@types/react-dom": "npm:^18.2.4"
     buncho: "npm:^6.1.0"
     prosemirror-model: "npm:^1.19.2"
@@ -3560,14 +3560,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:>=16, @types/react@npm:^18.2.11":
-  version: 18.2.11
-  resolution: "@types/react@npm:18.2.11"
+"@types/react@npm:*, @types/react@npm:>=16, @types/react@npm:^18.2.13":
+  version: 18.2.13
+  resolution: "@types/react@npm:18.2.13"
   dependencies:
     "@types/prop-types": "npm:*"
     "@types/scheduler": "npm:*"
     csstype: "npm:^3.0.2"
-  checksum: 7104fb2fe3948dcbac866b45873c403f809556b3788a677074210a95e656fe6ace30af92a08e6723bd44bb0f82d7fbeb810234863a412c908b1f3801894b028b
+  checksum: 8bb80cc0bc8eeae29c57ac5f63c040aea77da06c380b8d7647666bfd07ae3a114b24c33081a2b374c7361b155b44bcfbc715835190a21f5da67f0ba7a6e840c4
   languageName: node
   linkType: hard
 
