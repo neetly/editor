@@ -19,7 +19,7 @@
     "prepack": "run clean && run build && cp ../../LICENSE ."
   },
   "dependencies": {
-    "prosemirror-model": "^1.19.3",
+    "prosemirror-model": "^1.19.4",
     "prosemirror-state": "^1.4.3",
     "prosemirror-transform": "^1.8.0",
     "prosemirror-view": "^1.32.1"
