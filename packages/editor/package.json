@@ -19,10 +19,10 @@
     "prepack": "run clean && run build && cp ../../LICENSE ."
   },
   "dependencies": {
-    "prosemirror-model": "^1.19.4",
-    "prosemirror-state": "^1.4.3",
-    "prosemirror-transform": "^1.8.0",
-    "prosemirror-view": "^1.32.7"
+    "prosemirror-model": "1.19.4",
+    "prosemirror-state": "1.4.3",
+    "prosemirror-transform": "1.8.0",
+    "prosemirror-view": "1.32.7"
   },
   "peerDependencies": {
     "@types/react": "*",
@@ -39,17 +39,17 @@
     }
   },
   "devDependencies": {
-    "@buncho/storybook-preset": "^6.2.0",
-    "@neetly/tsconfig": "^0.3.0",
-    "@storybook/addon-essentials": "^7.6.7",
-    "@storybook/react": "^7.6.7",
-    "@storybook/react-webpack5": "^7.6.7",
-    "@types/react": "^18.2.47",
-    "@types/react-dom": "^18.2.18",
-    "buncho": "^6.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "storybook": "^7.6.7",
-    "typescript": "^5.3.3"
+    "@buncho/storybook-preset": "6.2.0",
+    "@neetly/tsconfig": "0.3.0",
+    "@storybook/addon-essentials": "7.6.7",
+    "@storybook/react": "7.6.7",
+    "@storybook/react-webpack5": "7.6.7",
+    "@types/react": "18.2.47",
+    "@types/react-dom": "18.2.18",
+    "buncho": "6.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "storybook": "7.6.7",
+    "typescript": "5.3.3"
   }
 }
